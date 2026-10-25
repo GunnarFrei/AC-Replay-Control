@@ -2,7 +2,9 @@
 
 A compact replay controller for Assetto Corsa with Custom Shaders Patch 0.2.11.
 
-[Download Replay Control 0.1.38](downloads/ReplayControl-0.1.38.zip)
+[Download Replay Control 0.1.38](https://github.com/GunnarFrei/AC-Replay-Control/releases/download/v0.1.38/ReplayControl-0.1.38.zip)
+
+![Replay Control and its settings in Assetto Corsa](replay-control-screenshot.png)
 
 ## Install or update
 Copy the entire ReplayControl folder, including icons, into:
